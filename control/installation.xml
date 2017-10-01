@@ -11,10 +11,11 @@ textdomain="control"
     <texts>
       <normal_role>
         <!-- TRANSLATORS: a label for a system role -->
-        <label>Default installation</label>
+        <label>Default System</label>
       </normal_role>
       <normal_role_description>
-        <label>You can't have it better</label>
+        <label>• GNOME environment, with Btrfs root (/) partition
+• Separate /home partition (XFS) for disks larger than 20GB</label>
       </normal_role_description>
     </texts>
 
