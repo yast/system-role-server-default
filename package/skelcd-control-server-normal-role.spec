@@ -35,7 +35,7 @@ BuildRequires:  yast2-installation-control >= 4.0.0
 
 Url:            https://github.com/yast/skelcd-control-server-normal-role
 AutoReqProv:    off
-Version:        15.0.0
+Version:        15.0.1
 Release:        0
 Summary:        Server Normal role definition
 License:        MIT
