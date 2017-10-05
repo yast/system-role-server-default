@@ -1,4 +1,4 @@
-skelcd-control-server-normal-role
+system-role-server-default
 ==============================
 
 Extension package that lives in module and extend installation by roles provided by this module.
