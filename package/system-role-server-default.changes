@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Tue Oct 10 10:05:36 UTC 2017 - coolo@suse.com
+
+- Require X11 pattern (and together with GNOME also x11_enhanced), so
+  that deselecting GNOME will leave you with minimal X
+- 15.0.2
+
+-------------------------------------------------------------------
 Sun Oct 01 20:48:25 UTC 2017 - knut.anderssen@suse.com
 
 - Use the correct label and description from the former SLES role
