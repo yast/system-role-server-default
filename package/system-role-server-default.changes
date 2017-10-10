@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Tue Oct 10 19:29:41 UTC 2017 - coolo@suse.com
+
+- remove x11_enhanced again - and make gnome-basic required (bsc#1057538)
+- 15.0.3
+
+-------------------------------------------------------------------
 Tue Oct 10 10:05:36 UTC 2017 - coolo@suse.com
 
 - Require X11 pattern (and together with GNOME also x11_enhanced), so
