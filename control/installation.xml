@@ -11,7 +11,7 @@ textdomain="control"
     <texts>
       <normal_role>
         <!-- TRANSLATORS: a label for a system role -->
-        <label>Default System</label>
+        <label>SLES with GNOME</label>
       </normal_role>
       <normal_role_description>
         <label>• GNOME environment, with Btrfs root (/) partition

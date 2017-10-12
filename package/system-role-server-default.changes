@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Thu Oct 12 13:19:11 UTC 2017 - jreidinger@suse.com
+
+- rename role (requested by sbehler, still part of bsc#1049297)
+- 15.0.4
+
+-------------------------------------------------------------------
 Tue Oct 10 19:29:41 UTC 2017 - coolo@suse.com
 
 - remove x11_enhanced again - and make gnome-basic required (bsc#1057538)
