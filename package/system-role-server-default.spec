@@ -35,7 +35,7 @@ BuildRequires:  yast2-installation-control >= 4.0.0
 
 Url:            https://github.com/yast/system-role-server-default
 AutoReqProv:    off
-Version:        15.0.9
+Version:        15.0.10
 Release:        0
 Summary:        Server Normal role definition
 License:        MIT
