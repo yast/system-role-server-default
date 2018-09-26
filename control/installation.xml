@@ -14,7 +14,8 @@ textdomain="control"
         <label>SLES with GNOME</label>
       </normal_role>
       <normal_role_description>
-        <label>• GNOME environment</label>
+        <label>• GNOME environment, with Btrfs root (/) partition
+• Separate /home partition (XFS) for disks larger than 20GB</label>
       </normal_role_description>
     </texts>
 
